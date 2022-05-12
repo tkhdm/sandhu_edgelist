@@ -5,7 +5,7 @@ uv,500,1
 uv,CDU,2
 nr,500,1
 nr,CDU,2
-sw,linke,1
+sw,LINKE,1
 sw,500,2
 cs,500,1
 cs,,2
@@ -22,7 +22,7 @@ kd,,2
 el,501,1
 el,,2
 ab,502,1
-ab,grüne,2
+ab,GRUENE,2
 ft,502,1
 ft,,2
 am,502,1
