@@ -9,8 +9,8 @@ sw,linke,1
 sw,500,2
 cs,500,1
 cs,,2
-cl,501,1
-cl,fdp,2
+cli,501,1
+cli,fdp,2
 nr,501,1
 nr,cdu,2
 ks,501,1
@@ -41,8 +41,8 @@ kp,503,1
 kp,,2
 rk,503,1
 rk,cdu,2
-cli,504,1
-cli,spd,2
+cl,504,1
+cl,spd,2
 al,504,1
 al,fpd,2
 sb,504,1
