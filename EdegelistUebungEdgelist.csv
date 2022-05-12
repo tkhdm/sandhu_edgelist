@@ -41,8 +41,8 @@ kp,503,1
 kp,,2
 rk,503,1
 rk,cdu,2
-cl,504,1
-cl,spd,2
+cli,504,1
+cli,spd,2
 al,504,1
 al,fpd,2
 sb,504,1
